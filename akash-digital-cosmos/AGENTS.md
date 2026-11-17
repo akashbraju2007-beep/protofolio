@@ -1,0 +1,2 @@
+- Gate the cursor particle overlay by pointer capability, not viewport width, so mouse users retain the effect in narrow windows.
+- Keep the portfolio welcome screen in a browser-side wrapper with independently tested timing and session-scoped dismissal, so content mounts immediately and repeat navigation is not delayed.
